@@ -56,7 +56,7 @@
     height: 100%;
     left: 0px;
     position: absolute;
-    top: 0px`;
+    top: 0px;
     width: 100%;
     z-index: 9999;
   }
@@ -89,8 +89,8 @@
     new_file = "Example_" + new_num + ".png";
     //alert(new_file);
     if (new_num > max_sequence){
-      new_file = "Example_.png";
-      //clearInterval(gift_animation);
+      new_file = "Example_00000.png";
+      clearInterval(gift_animation);
     }
     return new_file;
   }
