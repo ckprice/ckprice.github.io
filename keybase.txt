@@ -1,1 +1,54 @@
+==================================================================
+https://keybase.io/ckprice
+--------------------------------------------------------------------
 
+I hereby claim:
+
+  * I am an admin of http://cory.im
+  * I am ckprice (https://keybase.io/ckprice) on keybase.
+  * I have a public key ASDTprosNQxFnuJedTREDvnOzvlqE-q4v6ootEZAtQcsCQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101dbf676c41d6b53b46ec36cfb726f57c1189e22c918a5894ebc3047809aae0e5f0a",
+            "host": "keybase.io",
+            "kid": "0120d3a6ba2c350c459ee25e7534440ef9cecef96a13eab8bfaa28b44640b5072c090a",
+            "uid": "056ace593f1cfd0500b4e175facb7c00",
+            "username": "ckprice"
+        },
+        "service": {
+            "hostname": "cory.im",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.7"
+    },
+    "ctime": 1461650098,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1461650025,
+        "hash": "f8f8152fba9f95e85de1b42498ecf765bb7061f5791d12a0ee266964759fc62ae98b8c8f3bf49da37e6571585cf98cdbbbae45b32920d3321071bd0e86d5dfcb",
+        "seqno": 451171
+    },
+    "prev": "5e0b5087296848b42c95c07e0c6782a3d6eb4f9d4e048f1300a2a0185055a60d",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg06a6LDUMRZ7iXnU0RA75zs75ahPquL+qKLRGQLUHLAkKp3BheWxvYWTFAu17ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZGJmNjc2YzQxZDZiNTNiNDZlYzM2Y2ZiNzI2ZjU3YzExODllMjJjOTE4YTU4OTRlYmMzMDQ3ODA5YWFlMGU1ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDNhNmJhMmMzNTBjNDU5ZWUyNWU3NTM0NDQwZWY5Y2VjZWY5NmExM2VhYjhiZmFhMjhiNDQ2NDBiNTA3MmMwOTBhIiwidWlkIjoiMDU2YWNlNTkzZjFjZmQwNTAwYjRlMTc1ZmFjYjdjMDAiLCJ1c2VybmFtZSI6ImNrcHJpY2UifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNvcnkuaW0iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjcifSwiY3RpbWUiOjE0NjE2NTAwOTgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2MTY1MDAyNSwiaGFzaCI6ImY4ZjgxNTJmYmE5Zjk1ZTg1ZGUxYjQyNDk4ZWNmNzY1YmI3MDYxZjU3OTFkMTJhMGVlMjY2OTY0NzU5ZmM2MmFlOThiOGM4ZjNiZjQ5ZGEzN2U2NTcxNTg1Y2Y5OGNkYmJiYWU0NWIzMjkyMGQzMzIxMDcxYmQwZTg2ZDVkZmNiIiwic2Vxbm8iOjQ1MTE3MX0sInByZXYiOiI1ZTBiNTA4NzI5Njg0OGI0MmM5NWMwN2UwYzY3ODJhM2Q2ZWI0ZjlkNGUwNDhmMTMwMGEyYTAxODUwNTVhNjBkIiwic2Vxbm8iOjEwLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQEO5R4SeKKShmwkX7154wtabVLernW2V6Mwc6nVoYy9BUo2rld6AITtVL7EViYiIUNDeKes3LsPBPhUa8iqdJAKoc2lnX3R5cGUgo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ckprice
+
+==================================================================
